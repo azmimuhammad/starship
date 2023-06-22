@@ -16,7 +16,7 @@ export default {
   name: "RatingCard",
 
   props: {
-    rating: Number
+    rating: String
   }
 }
 </script>

@@ -23,6 +23,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   color: #fff;
   width: 60%;
+  height: 100vh;
   margin: 0px auto;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
